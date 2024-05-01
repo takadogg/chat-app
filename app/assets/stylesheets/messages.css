@@ -85,27 +85,27 @@
   overflow: scroll;
 }
 
-.chat-message {
+.message {
   margin-bottom: 40px;
 }
 
-.about-message {
+.upper-message {
   padding: 10px 0;
   display: flex;
 }
 
-.sender {
+.message-user {
   font-size: 16px;
   color: #434a54;
   margin-right: 10px;
 }
 
-.date {
+.message-date {
   font-size: 12px;
   color: #999;
 }
 
-.text {
+.message-content {
   font-size: 14px;
   color: #434a54;
 }
